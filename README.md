@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and authoring
 - 🌱 I’m currently learning etherium blockchain technology, indie publishing, and python.
 - 💞️ I’m looking to collaborate on nothing as of now.
-- 📫 How to reach me for anything: info@thewriters.ink
+- 📫 How to reach me for anything: info@thewriters.ink (Don't use Twitter: I'm never there.)
 
 <!---
 TheWritersInk/TheWritersInk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
